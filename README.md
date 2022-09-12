@@ -4,7 +4,7 @@
   </a>
 </h1>
 <br>
-<h5 allign="center">
+<h5 align="center">
   <a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="/images/Linkedin.svg" width=22></a>
 </h5>
 <!---
