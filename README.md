@@ -4,13 +4,9 @@
   </a>
 </h1>
 <br>
-<h5>
-- 👋 Hi, I’m Hawk
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on my enigma pronect
-- 📫 my email if you have it, otherwise through issues if it's on a project
-
+<h5 allign="center">
+  <a href="https://www.linkedin.com/in/hawkins-peterson/"></a>
+</h5>
 <!---
 Hawkins03/Hawkins03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
