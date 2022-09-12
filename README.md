@@ -5,11 +5,8 @@
 </h1>
 <br>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="/images/Linkedin.svg" width=22>Linkedin</a></code>
-</h5>
-<!---
-Hawkins03/Hawkins03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <code><a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="/images/Linkedin.svg" width=22>Linkedin</a></code>\
+</h5> <!---           LINKS!            --->
+<br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Hawkins03)
