@@ -9,6 +9,6 @@
 <br>
 
 <h2 align="center">Current Projects:</h2>
-[![NonogramSolver](https://github-readme-stats.vercel.app/api/pin/?username=Hawkins03&repo=NonogramSolver)](https://github.com/Hawkins03/NonogramSolver)
+[![NonogramSolver](https://github-readme-stats.vercel.app/api/pin/?username=Hawkins03&repo=NonogramSolver)](https://github.com/thepracticaldev/dev.to))
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Hawkins03)
