@@ -5,7 +5,7 @@
 </h1>
 <br>
 <h5 allign="center">
-  <a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="/images/Linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="/images/Linkedin.svg" img-width=22></a>
 </h5>
 <!---
 Hawkins03/Hawkins03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
