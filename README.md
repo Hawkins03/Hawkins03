@@ -3,10 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hawkins+Peterson;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<br>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="/images/Linkedin.svg" width=22>Linkedin</a></code>\
+  <code><a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="/images/Linkedin.svg" width=22>Linkedin</a></code>
 </h5> <!---           LINKS!            --->
 <br>
+
+<h2 align="center">Current Projects:</h2>
+[![NonogramSolver](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/Hawkins03/NonogramSolver)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Hawkins03)
