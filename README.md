@@ -11,7 +11,7 @@
 ## Languages I use
 
 <h5 align="center">
-  <img src="https://img.shields.io/badge/-Python-lightBlue?style=flat-square&logo=Python&logo-color=white">
-  <img src="https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&logo-color=white">
-  <img src="https://img.shields.io/badge/-C-white?style=flat-square&logo=C&logo=color=white">
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logo-color=white">
+  <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logo-color=white">
+  <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logo=color=white">
 </h5>
