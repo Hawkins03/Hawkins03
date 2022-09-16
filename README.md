@@ -13,7 +13,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=NonogramSolver" />
 </a>
 <a href="https://github.com/hawkins03/enigma">
-  <img align="right" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=enigma)" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=enigma)" />
 </a>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Hawkins03)
