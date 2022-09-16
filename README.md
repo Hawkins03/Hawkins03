@@ -21,6 +21,6 @@
  <br>
    
    
-<p allign="center">
+<a href="https://github.com/hawkins03" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hawkins03">
-</p>
+</a>
