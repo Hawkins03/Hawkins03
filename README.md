@@ -9,6 +9,11 @@
 <br>
 
 <h2 align="center">Current Projects:</h2>
-![Nonogram Solver](https://github-readme-stats.vercel.app/api/pin?username=hawkins03&repo=NonogramSolver)
+<a href="https://github.com/hawkins03/NonogramSolver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hawkins03&repo=NongoramSolver" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Hawkins03)
