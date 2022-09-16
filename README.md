@@ -10,7 +10,7 @@
 
 <h2 align="center">Current Projects:</h2>
 <a href="https://github.com/hawkins03/NonogramSolver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hawkins03&repo=nonogoramsolver" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=hawkins03&repo=nonogoramsolver" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
