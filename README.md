@@ -21,6 +21,6 @@
  <br>
    
    
-<div allign="center">
+<p allign="center">
   ![My github stats](https://github-readme-stats.vercel.app/api?username=Hawkins03)
-</div>
+</p>
