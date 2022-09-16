@@ -9,6 +9,8 @@
 <br>
 
 <h2 align="center">Current Projects:</h2>
+
+<p align="center">
 <div>
 <a href="https://github.com/hawkins03/NonogramSolver">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=NonogramSolver" />
@@ -23,3 +25,4 @@
 <a href="https://github.com/hawkins03">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hawkins03">
 </a>
+</p>
