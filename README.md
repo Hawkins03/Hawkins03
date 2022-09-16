@@ -11,7 +11,7 @@
 <a href="mailto:hawkinspeterson03@gmail.com" title="gmail"><img src="https://img.shields.io/badge/-HawkinsPeterson03@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white"></a> 
 </h5> <!---           LINKS!            --->
 
-<h3 align="center">Languages I use</h3>
+<h3 align="center">Languages I Use</h3>
 
 <h5 align="center">
   <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white">
 </h5>
 
-<h3 align="center">Tools I use</h3>
+<h3 align="center">Tools I Use</h3>
   
 <h5 align="center">
   <img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=Vim&logoColor=white">
