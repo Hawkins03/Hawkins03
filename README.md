@@ -4,7 +4,7 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logo-color=white" width=22>Linkedin</a></code>
+<a href="https://www.linkedin.com/in/hawkins-peterson/" title="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=LinkedIn&logo-color=white" 
 </h5> <!---           LINKS!            --->
 
 ## Languages I use
