@@ -10,7 +10,7 @@
 ## Languages I use
 
 <h5 align="center">
-  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=Python">
-  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java">
-  <img src="https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C">
+  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=Python&logo-color=black">
+  <img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=Java&logo-color=black">
+  <img src="https://img.shields.io/badge/-C-white?style=for-the-badge&logo=C&logo=color=black">
 </h5>
