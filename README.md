@@ -19,4 +19,5 @@
 <h5 align="center">
   <img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=Vim&logoColor=white">
   <img src="https://img.shields.io/badge/-MS%20Office-blue?style=flat-square&logo=Microsoft%20Office&logoColor=white">
+  <img src="https://img.shields.io/badge/-The Terminal-dark%20green?style=flat-square&logo=Linux&logoColor=white">
 </h5>
