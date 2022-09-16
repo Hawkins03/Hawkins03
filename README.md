@@ -17,4 +17,4 @@
 </h5>
 ## Tools I use
 <h5 align="center">
-  <img src="https://img.shields.io/badge/-Vim-green?style=flat-square&logo=Vim&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=Vim&logoColor=white">
