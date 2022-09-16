@@ -12,6 +12,9 @@
 
 <h5 align="center">
   <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white">
 </h5>
+## Tools I use
+<h5 align="center">
+  <img src="https://img.shields.io/badge/-Vim-green?style=flat-square&logo=Vim&logoColor=white">
