@@ -20,7 +20,6 @@
  <br>
  <br>
    
-   
-<a href="https://github.com/hawkins03" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hawkins03">
+<a href="https://github.com/hawkins03">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hawkins03">
 </a>
