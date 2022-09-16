@@ -9,6 +9,6 @@
 <br>
 
 <h2 align="center">Current Projects:</h2>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats)
+![Nonogram Solver](https://github-readme-stats.vercel.app/api/pin?username=hawkins03&repo=NonogramSolver)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Hawkins03)
