@@ -11,15 +11,15 @@
 <h2 align="center">Current Projects:</h2>
 <div>
 <a href="https://github.com/hawkins03/NonogramSolver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=NonogramSolver" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=NonogramSolver" />
 </a>
 <a href="https://github.com/hawkins03/enigma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=enigma"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Hawkins03&repo=enigma"/>
 </a>
 </div>
  <br>
  <br>
    
 <a href="https://github.com/hawkins03">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hawkins03">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hawkins03">
 </a>
