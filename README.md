@@ -13,7 +13,7 @@
 
 <h3 align="center">Languages I Use</h3>
 
-<p allign="center"> Python, Java, C </p>
+<p align="center"> Python, Java, C </p>
 
 <h3 align="center">Tools I Use</h3>
   
