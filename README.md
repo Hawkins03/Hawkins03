@@ -13,11 +13,7 @@
 
 <h3 align="center">Languages I Use</h3>
 
-<h5 align="center">
-  <picture><img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white"></picture>
-</h5>
+Python, Java, C
 
 <h3 align="center">Tools I Use</h3>
   
