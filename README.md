@@ -13,12 +13,9 @@
 
 <h3 align="center">Languages I Use</h3>
 
-<p align="center"> Python, Java, C </p>
+<p align="center"> Python, Java, C, VBA & Excel </p>
 
 <h3 align="center">Tools I Use</h3>
-  
-<h5 align="center">
-  <picture><img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=Vim&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/-MS%20Office-blue?style=flat-square&logo=Microsoft%20Office&logoColor=white"></picture>
-  <picture><img src="https://img.shields.io/badge/-The Terminal-dark%20green?style=flat-square&logo=Linux&logoColor=white"></picture>
-</h5>
+
+<p align="center">Vim, Git, Linux, VSCode, Office
+ 
